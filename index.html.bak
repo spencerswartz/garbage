@@ -1,2 +1,8 @@
-# Hello World
-{{ site.time | date_to_rfc822 }}
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Spencer</title>
+  </head>
+  <body>
+	</body>
+</html>	
